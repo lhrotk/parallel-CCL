@@ -4,6 +4,8 @@ The project includes three versions of connected component labelling algorithm. 
 
 For detailed description about the algorithm, please refer to the PDF file.
 
+## How to Run
+
 To run the program, you need to install CUDA and OpenMPI to your machine.
 
 Firstly use image2input.py to convert a gray image to binary image stored with plain text:
